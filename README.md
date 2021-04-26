@@ -170,8 +170,6 @@ Keep rocking buddy 😎 "
 
 -“Will Do Buddy...!”
 
-![](assets/img/testimonials/4.png)
-
 ### Nivedha
 
 #### Class Mate
