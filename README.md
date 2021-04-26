@@ -7,7 +7,6 @@ Amiable and Professionalistic freshman with Excellent Leadership skills
 and Extensive Communication skills. Seeking an opportunity to Leverage
 and Express all skills at a Convivial and Prestigious Company
 
-![](assets/img/profile-img.png)
 
 ### Cloud Engineer & Entrepreneur
 
