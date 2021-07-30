@@ -22,6 +22,10 @@ Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
 ### Latest Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
+- [Deploying My Own Cloud | Task - 3](https://blog.saranmahadev.tech/deploying-my-own-cloud)
+- [LAMP Server on AWS | Task - 2](https://blog.saranmahadev.tech/lamp-server-on-aws)
+- [Installing Linux Mint on Test Bench | Task - 1](https://blog.saranmahadev.tech/installing-linux-mint-on-test-bench)
 <!-- BLOG-POST-LIST:END -->
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saranmahadev&show_icons=true&line_height=25&width=100&count_private=true&title_color=fd9000&text_color=ffffff&icon_color=fd9000&bg_color=1c1c1c" alt="Saran Mahadev's GitHub Stats" />
