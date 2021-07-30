@@ -25,5 +25,14 @@ jobs:
           comment_tag_name: "PODCAST"
           max_post_count: "2"
           feed_list: "https://anchor.fm/s/58023d04/podcast/rss"
-
+  update-readme-with-youtube:
+    name: Update this repo's README with latest youtube vides
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          max_post_count: "3"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsuU50gRmzLPMBlP1vJhJbg"
   
