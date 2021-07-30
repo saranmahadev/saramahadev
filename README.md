@@ -9,7 +9,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ---
 ### Lets Connect 🤝
 
-[![mail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=fd9000)](mailto:contact@saranmahadev.tech) [![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=fd9000)](https://www.linkedin.com/in/saranmahadev) [![instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=fd9000)](https://www.instagram.com/cloud.maestro/) [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
+[![mail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=fd9000)](mailto:sarandevnet@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=fd9000)](https://www.linkedin.com/in/saranmahadev) [![instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=fd9000)](https://www.instagram.com/cloud.maestro/) 
 
 ---
 
@@ -28,6 +28,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ---
 
 ### Latest YouTube Videos:
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
