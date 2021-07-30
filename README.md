@@ -41,6 +41,7 @@ Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
 ### Latest Podcasts:
 
 <!-- PODCAST:START -->
+- ["Curiosity turned into a Career"](https://anchor.fm/saranmahadev/episodes/Curiosity-turned-into-a-Career-e12l59a)
 <!-- PODCAST:END -->
 
 ---
