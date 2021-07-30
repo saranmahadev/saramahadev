@@ -22,6 +22,11 @@ Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
 ### Latest Blogs:
 
 <!-- BLOG-POST:START -->
+- [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
+- [Deploying My Own Cloud | Task - 3](https://blog.saranmahadev.tech/deploying-my-own-cloud)
+- [LAMP Server on AWS | Task - 2](https://blog.saranmahadev.tech/lamp-server-on-aws)
+- [Installing Linux Mint on Test Bench | Task - 1](https://blog.saranmahadev.tech/installing-linux-mint-on-test-bench)
+- [Lets Take the Challenge!](https://blog.saranmahadev.tech/lets-take-the-challenge)
 <!-- BLOG-POST:END -->
 
 ---
