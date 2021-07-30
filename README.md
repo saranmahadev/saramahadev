@@ -21,11 +21,25 @@ Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
 
 ### Latest Blogs:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST:START -->
+<!-- BLOG-POST:END -->
 ---
+
+### Latest YouTube Videos:
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### Latest Podcasts:
+
+<!-- PODCAST:START -->
+<!-- PODCAST:END -->
+
+---
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saranmahadev&show_icons=true&line_height=25&width=100&count_private=true&title_color=fd9000&text_color=ffffff&icon_color=fd9000&bg_color=1c1c1c" alt="Saran Mahadev's GitHub Stats" />
----
 
 ---
 

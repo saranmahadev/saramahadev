@@ -4,14 +4,35 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: saranmahadev/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          comment_tag_name: "BLOG-POST"
+          max_post_count: "5"
           feed_list: "https://blog.saranmahadev.tech/rss.xml"
+  update-readme-with-podcast:
+    name: Update this repo's README with latest podcasts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: saranmahadev/podcast-workflow@master
+        with:
+          comment_tag_name: "PODCAST"
+          max_post_count: "2"
+          feed_list: "https://anchor.fm/s/58023d04/podcast/rss"
+  update-readme-with-youtube:
+    name: Update this repo's README with latest youtube vides
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: saranmahadev/youtube-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          max_post_count: "3"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsuU50gRmzLPMBlP1vJhJbg"
+  
