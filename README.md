@@ -1,15 +1,15 @@
 ![banner](./assets/banner.gif)
 
-## Hey There 👋!
 
-I am Saran Mahadev. I am penultimate year student who loves to learn new things and try stuff. I am passionate in designing solutions for complex applications. I work on a highly productive environment and I love to automate things.
+### Hey There 👋,
+I am Saran Mahadev, a penultimate year student who has a beginner's mindset - the one who always loves to learn new things. I am passionate in architecting solutions for complex applications and problems. I work on a highly productive environment and out grown the messy environment(Trying my best!). I love to share my knowledge in my own way and I create content on YouTube, Blog ,Instagram and on Discord(Pro Community)
 
-Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
+Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 
 ---
 ### Lets Connect 🤝
 
-[![mail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=fd9000)](mailto:contact@saranmahadev.tech) [![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=fd9000)](https://www.linkedin.com/in/saranmahadev) [![web](https://img.shields.io/badge/Google_chrome-323330?style=for-the-badge&logo=Google-chrome&logoColor=fd9000)](https://www.saranmahadev.tech)
+[![mail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=fd9000)](mailto:contact@saranmahadev.tech) [![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=fd9000)](https://www.linkedin.com/in/saranmahadev) [![instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=fd9000)](https://www.instagram.com/cloud.maestro/) [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 ---
 
@@ -19,32 +19,23 @@ Wanna Know Checkout My Portfolio -> [Here](https://www.saranmahadev.tech/)
 
 ---
 
-### Latest Blogs:
+### Latest Blogs: 
+Hosted on : [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
 
 <!-- BLOG-POST:START -->
-- [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
-- [Deploying My Own Cloud | Task - 3](https://blog.saranmahadev.tech/deploying-my-own-cloud)
-- [LAMP Server on AWS | Task - 2](https://blog.saranmahadev.tech/lamp-server-on-aws)
-- [Installing Linux Mint on Test Bench | Task - 1](https://blog.saranmahadev.tech/installing-linux-mint-on-test-bench)
-- [Lets Take the Challenge!](https://blog.saranmahadev.tech/lets-take-the-challenge)
 <!-- BLOG-POST:END -->
-
----
-
-### Latest YouTube Videos:
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ---
 
 ### Latest Podcasts:
 
+Hosted on : [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 <!-- PODCAST:START -->
-- ["Curiosity turned into a Career"](https://anchor.fm/saranmahadev/episodes/Curiosity-turned-into-a-Career-e12l59a)
 <!-- PODCAST:END -->
 
 ---
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranmahadev&layout=compact&title_color=fd9000&text_color=FFF&icon_color=fd9000&bg_color=1c1c1c)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saranmahadev&show_icons=true&line_height=25&width=100&count_private=true&title_color=fd9000&text_color=ffffff&icon_color=fd9000&bg_color=1c1c1c" alt="Saran Mahadev's GitHub Stats" />
 
