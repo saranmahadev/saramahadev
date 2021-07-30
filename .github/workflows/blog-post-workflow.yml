@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: saranmahadev/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST"
           max_post_count: "5"
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: saranmahadev/podcast-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PODCAST"
           max_post_count: "2"
@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: saranmahadev/youtube-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: "3"
