@@ -36,6 +36,9 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
+- [Introducing Maestro Universe...](https://www.youtube.com/watch?v=wIW6TSiLhqU)
+- [Lets Stand in the Baby Pool | Python Programming](https://www.youtube.com/watch?v=tPrzsr5dtBg)
+- [Before the Dive... | Python Programming](https://www.youtube.com/watch?v=Nl9ywUE__LM)
 <!-- YOUTUBE:END -->
 
 ---
