@@ -19,8 +19,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 
 ---
 
-### Latest Blogs: 
--> [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
+### Latest Blogs: [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
 
 <!-- BLOG-POST:START -->
 <!-- BLOG-POST:END -->
@@ -34,9 +33,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 
 ---
 
-### Latest Podcasts:
-
--> [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
+### Latest Podcasts: [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 <!-- PODCAST:START -->
 <!-- PODCAST:END -->
 
