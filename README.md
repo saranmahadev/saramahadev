@@ -28,7 +28,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ---
 
 ### Latest YouTube Videos:
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
+[![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
