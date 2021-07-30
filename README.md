@@ -30,9 +30,6 @@ Hosted on : [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-
 ### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
-- [Introducing Maestro Universe...](https://www.youtube.com/watch?v=wIW6TSiLhqU)
-- [Lets Stand in the Baby Pool | Python Programming](https://www.youtube.com/watch?v=tPrzsr5dtBg)
-- [Before the Dive... | Python Programming](https://www.youtube.com/watch?v=Nl9ywUE__LM)
 <!-- YOUTUBE:END -->
 
 ---
