@@ -44,6 +44,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 
 ### Recent Activity:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/saranmahadev/100DaysOfCloudIdeas/pull/1) in [saranmahadev/100DaysOfCloudIdeas](https://github.com/saranmahadev/100DaysOfCloudIdeas)
+2. 🎉 Merged PR [#1](https://github.com/saranmahadev/gces/pull/1) in [saranmahadev/gces](https://github.com/saranmahadev/gces)
+3. ❗️ Closed issue [#3](https://github.com/seddie95/python_script_in_right_click_menu/issues/3) in [seddie95/python_script_in_right_click_menu](https://github.com/seddie95/python_script_in_right_click_menu)
+4. 💪 Opened PR [#91](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/pull/91) in [100DaysOfCloud/100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+5. ❗️ Opened issue [#90](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/90) in [100DaysOfCloud/100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 <!--END_SECTION:activity-->
 
 ---
