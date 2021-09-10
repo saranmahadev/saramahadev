@@ -23,6 +23,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
 
 <!-- BLOG-POST:START -->
+- [Automated Deployment | Task - 6](https://blog.saranmahadev.tech/automated-deployment-or-task-6)
+- [Changing GitHub Profile | Task - 5](https://blog.saranmahadev.tech/changing-github-profile)
+- [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
+- [Deploying My Own Cloud | Task - 3](https://blog.saranmahadev.tech/deploying-my-own-cloud)
+- [LAMP Server on AWS | Task - 2](https://blog.saranmahadev.tech/lamp-server-on-aws)
 <!-- BLOG-POST:END -->
 
 ---
@@ -31,6 +36,9 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
+- [AWS Overview 101 | Cloud Maestro](https://www.youtube.com/watch?v=j3IGHIjr9tk)
+- [Types of Cloud Computing | Cloud Maestro](https://www.youtube.com/watch?v=6GnSEmUO-ls)
+- [What is Cloud Computing? | Cloud Maestro](https://www.youtube.com/watch?v=HfTQeMWjnt4)
 <!-- YOUTUBE:END -->
 
 ---
@@ -38,6 +46,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ### Latest Podcasts: 
 [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 <!-- PODCAST:START -->
+- ["Curiosity turned into a Career"](https://anchor.fm/saranmahadev/episodes/Curiosity-turned-into-a-Career-e12l59a)
 <!-- PODCAST:END -->
 
 ---
