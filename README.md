@@ -55,6 +55,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/saranmahadev/100DaysOfCloud/pull/5) in [saranmahadev/100DaysOfCloud](https://github.com/saranmahadev/100DaysOfCloud)
+2. 💪 Opened PR [#5](https://github.com/saranmahadev/100DaysOfCloud/pull/5) in [saranmahadev/100DaysOfCloud](https://github.com/saranmahadev/100DaysOfCloud)
+3. 🎉 Merged PR [#3](https://github.com/saranmahadev/100DaysOfCloud/pull/3) in [saranmahadev/100DaysOfCloud](https://github.com/saranmahadev/100DaysOfCloud)
+4. 💪 Opened PR [#3](https://github.com/saranmahadev/100DaysOfCloud/pull/3) in [saranmahadev/100DaysOfCloud](https://github.com/saranmahadev/100DaysOfCloud)
+5. 🎉 Merged PR [#2](https://github.com/saranmahadev/100DaysOfCloud/pull/2) in [saranmahadev/100DaysOfCloud](https://github.com/saranmahadev/100DaysOfCloud)
 <!--END_SECTION:activity-->
 
 ---
