@@ -47,7 +47,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 
 <!-- PODCAST:START -->
-- [&quot;Curiosity turned into a Career&quot;](https://anchor.fm/saranmahadev/episodes/Curiosity-turned-into-a-Career-e12l59a)
+- [The secret to getting ahead is Getting Started!](https://anchor.fm/saranmahadev/episodes/The-secret-to-getting-ahead-is-Getting-Started-e1afgrn)
 <!-- PODCAST:END -->
 
 ---
