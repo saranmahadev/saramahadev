@@ -47,6 +47,7 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 
 <!-- PODCAST:START -->
+- [Back to My School...](https://anchor.fm/saranmahadev/episodes/Back-to-My-School-e1ah0t9)
 - [The secret to getting ahead is Getting Started!](https://anchor.fm/saranmahadev/episodes/The-secret-to-getting-ahead-is-Getting-Started-e1afgrn)
 <!-- PODCAST:END -->
 
