@@ -23,11 +23,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
 
 <!-- BLOG-POST:START -->
+- [How I started a club in my college?](https://blog.saranmahadev.tech/how-i-started-a-club-in-my-college)
 - [Automated Deployment | Task - 6](https://blog.saranmahadev.tech/automated-deployment-or-task-6)
 - [Changing GitHub Profile | Task - 5](https://blog.saranmahadev.tech/changing-github-profile)
 - [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
 - [Deploying My Own Cloud | Task - 3](https://blog.saranmahadev.tech/deploying-my-own-cloud)
-- [LAMP Server on AWS | Task - 2](https://blog.saranmahadev.tech/lamp-server-on-aws)
 <!-- BLOG-POST:END -->
 
 ---
