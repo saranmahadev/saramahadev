@@ -36,9 +36,9 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
+- [What is Python | Cloud Maestro](https://www.youtube.com/watch?v=-904MnjaOZ4)
 - [AWS Overview 101 | Cloud Maestro](https://www.youtube.com/watch?v=j3IGHIjr9tk)
 - [Types of Cloud Computing | Cloud Maestro](https://www.youtube.com/watch?v=6GnSEmUO-ls)
-- [What is Cloud Computing? | Cloud Maestro](https://www.youtube.com/watch?v=HfTQeMWjnt4)
 <!-- YOUTUBE:END -->
 
 ---
