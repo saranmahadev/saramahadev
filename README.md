@@ -36,9 +36,9 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
+- [Datatypes | Python | Cloud Maestro](https://www.youtube.com/watch?v=vS1DpL2gD-o)
+- [Datatypes | Python | Cloud Maestro](https://www.youtube.com/watch?v=a6378Gl4wH0)
 - [Comparison Operators | Python | Cloud Maestro](https://www.youtube.com/watch?v=vMql4XFhOVE)
-- [Arithmetic Operators | Python | Cloud Maestro](https://www.youtube.com/watch?v=J4ifGyt1aKA)
-- [Operators | Python | Cloud Maestro](https://www.youtube.com/watch?v=Uo1geM2doWM)
 <!-- YOUTUBE:END -->
 
 ---
