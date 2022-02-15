@@ -36,9 +36,9 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![youtube](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=fd9000)](https://www.youtube.com/channel/UCsuU50gRmzLPMBlP1vJhJbg)
 
 <!-- YOUTUBE:START -->
-- [What is C++ ? | Cloud Maestro](https://www.youtube.com/watch?v=h5gnuXgqBE0)
-- [What is C Programming? | Cloud Maestro](https://www.youtube.com/watch?v=p3wsbdgFBFg)
-- [Why the name Python | Cloud Maestro](https://www.youtube.com/watch?v=m-JdmFT3nbk)
+- [Variables | Python | Cloud Maestro](https://www.youtube.com/watch?v=ZmOPpV8V-UQ)
+- [Variables | Python | Cloud Maestro](https://www.youtube.com/watch?v=zTHNHoa_E8o)
+- [Indentation | Python | Cloud Maestro](https://www.youtube.com/watch?v=RVm9Sx2hH64)
 <!-- YOUTUBE:END -->
 
 ---
