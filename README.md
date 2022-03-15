@@ -56,11 +56,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/saranmahadev/devops-digest/pull/5) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
-2. 🎉 Merged PR [#4](https://github.com/saranmahadev/devops-digest/pull/4) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
-3. 💪 Opened PR [#4](https://github.com/saranmahadev/devops-digest/pull/4) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
-4. 🎉 Merged PR [#1](https://github.com/saranmahadev/ChocolateNFTGenerator/pull/1) in [saranmahadev/ChocolateNFTGenerator](https://github.com/saranmahadev/ChocolateNFTGenerator)
-5. 🎉 Merged PR [#1](https://github.com/saranmahadev/cloudresumechallenge/pull/1) in [saranmahadev/cloudresumechallenge](https://github.com/saranmahadev/cloudresumechallenge)
+1. 🎉 Merged PR [#6](https://github.com/saranmahadev/devops-digest/pull/6) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
+2. 🎉 Merged PR [#5](https://github.com/saranmahadev/devops-digest/pull/5) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
+3. 🎉 Merged PR [#4](https://github.com/saranmahadev/devops-digest/pull/4) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
+4. 💪 Opened PR [#4](https://github.com/saranmahadev/devops-digest/pull/4) in [saranmahadev/devops-digest](https://github.com/saranmahadev/devops-digest)
+5. 🎉 Merged PR [#1](https://github.com/saranmahadev/ChocolateNFTGenerator/pull/1) in [saranmahadev/ChocolateNFTGenerator](https://github.com/saranmahadev/ChocolateNFTGenerator)
 <!--END_SECTION:activity-->
 
 ---
